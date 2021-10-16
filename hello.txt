@@ -1,1 +1,4 @@
 hellokakak
+git --pretty=oneline --graph
+git config --global alias.lg 'log 
+--pretty=oneline --graph'
